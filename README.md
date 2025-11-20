@@ -10,7 +10,7 @@
 
 ---
 
-In this repository, you'll find Jupyter notebooks and example code used in my blog essays on [nicolamustone.blog](https://nicolamustone.blog/). 
+In this repository, you'll find Jupyter notebooks and example code used in my blog essays on [buthonestly.io](buthonestly.io). 
 These cover various computer vision projects, including working neural networks, experiments, and analyses.
 
 ## License
